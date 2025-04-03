@@ -1,0 +1,6 @@
+m1 = int(input())
+m2 = int(input())
+print(m1 + m2)
+print(m1 - m2)
+print(m1 * m2)
+print(m1 / m2)
