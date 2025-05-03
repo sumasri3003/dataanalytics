@@ -1,0 +1,11 @@
+transaction_id,branch_id,city,timestamp,amount,status,account_number,failure_reason,user_name
+39,B002,New York,2025-04-06 21:18:47,796.89,FAILED,EZZU46199323683451,Insufficient Funds,Ronnie Gonzalez
+43,B003,Los Angeles,2025-04-29 14:12:41,312.44,FAILED,USEZ81909468986972,Insufficient Funds,Amy Ortiz
+47,B003,New York,2025-04-05 11:32:20,727.34,FAILED,HKBV20368039568821,Card Expired,Brian Meza
+80,B002,Chicago,2025-04-10 22:23:07,641.16,FAILED,EPBW16190143576846,Network Error,Joanne Walker
+100,B003,Chicago,2025-04-23 23:00:28,795.47,FAILED,XVNM81320109850202,Insufficient Funds,William Olsen
+160,B003,Chicago,2025-04-03 06:35:18,985.92,FAILED,WUSE58366849961709,Insufficient Funds,Candice Chavez
+163,B003,Los Angeles,2025-04-28 04:46:46,18.44,FAILED,GJFP54120585965309,Network Error,Justin Jenkins
+217,B003,New York,2025-04-10 06:51:07,282.96,FAILED,ZMBR68689211634867,Network Error,Stephanie Hawkins
+235,B001,New York,2025-04-18 04:43:10,192.22,FAILED,FFLM26392056652249,Network Error,Tyler Edwards
+242,B001,New York,2025-04-12 05:31:41,915.95,FAILED,UQJD33372938566372,Card Expired,Shelia Clark
