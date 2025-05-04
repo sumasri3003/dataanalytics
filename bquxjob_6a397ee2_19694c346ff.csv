@@ -1,0 +1,31 @@
+CustId,Name,LastName,ProductId,City,Balance,IsActive
+CUST0001,Bob,Harris,5,Chicago,5086.66,true
+CUST0002,Grace,Anderson,4,New York,2997.97,false
+CUST0003,Lily,Martin,5,Phoenix,8974.17,true
+CUST0004,Nina,Martin,3,New York,5682.45,false
+CUST0005,Grace,Martin,1,Chicago,2751.64,true
+CUST0006,Grace,Jackson,4,Los Angeles,8524.62,true
+CUST0007,Bob,Brown,3,Phoenix,4046.42,true
+CUST0008,Grace,Anderson,2,Chicago,5910.63,true
+CUST0009,Nina,Johnson,3,Houston,6064.89,false
+CUST0010,John,Thomas,2,Phoenix,1534.07,false
+CUST0011,James,White,1,Phoenix,8950.11,true
+CUST0012,Nina,Jackson,2,Phoenix,3931.74,false
+CUST0013,James,Smith,4,Chicago,2901.48,true
+CUST0014,Nina,White,2,Chicago,5133.37,false
+CUST0015,Grace,White,1,Los Angeles,9450.62,true
+CUST0016,James,Jackson,5,New York,4860.17,false
+CUST0017,John,Taylor,3,Phoenix,6401.53,false
+CUST0018,Lily,Smith,2,Houston,6133.92,true
+CUST0019,Nina,Smith,1,Los Angeles,7136.01,true
+CUST0020,Tom,Taylor,1,Phoenix,3114.37,true
+CUST0021,John,Anderson,5,Phoenix,2113.19,true
+CUST0022,Mark,Thomas,2,New York,6204.65,false
+CUST0023,John,Martin,3,Phoenix,3814.69,false
+CUST0024,John,Jackson,4,Phoenix,7217.67,false
+CUST0025,Mark,Martin,4,Los Angeles,4487.36,true
+CUST0026,Grace,Brown,2,Los Angeles,8180.43,false
+CUST0027,Tom,Martin,5,Houston,7337.06,true
+CUST0028,Tom,Harris,2,Chicago,1140.94,false
+CUST0029,Nina,Jackson,1,Chicago,8281.24,true
+CUST0030,Alice,Smith,5,Los Angeles,1410.14,false

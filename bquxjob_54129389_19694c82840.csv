@@ -1,0 +1,21 @@
+EmpNo,EmpName,EmpDesignation,EmpSalary,EmpDeptNo,EmpIsPermenant,DeptNo,DeptName,DeptLocation
+E1006,Frank,Analyst,53645,10,false,10,Accounting,New York
+E1017,Quincy,Developer,47294,10,false,10,Accounting,New York
+E1018,Rachel,Developer,104387,10,true,10,Accounting,New York
+E1002,Bob,HR,106811,20,false,20,Research,Dallas
+E1003,Charlie,HR,79919,20,false,20,Research,Dallas
+E1013,Monica,Analyst,64802,20,false,20,Research,Dallas
+E1015,Oscar,Analyst,84303,20,false,20,Research,Dallas
+E1005,Eva,Manager,93390,20,true,20,Research,Dallas
+E1009,Ian,HR,53914,20,true,20,Research,Dallas
+E1012,Leo,HR,110518,20,true,20,Research,Dallas
+E1016,Paul,Manager,63142,20,true,20,Research,Dallas
+E1011,Karen,Analyst,99379,30,false,30,Sales,Chicago
+E1004,David,Developer,83988,30,true,30,Sales,Chicago
+E1007,Grace,Analyst,57034,30,true,30,Sales,Chicago
+E1010,Jack,Tester,54499,40,false,40,Operations,Boston
+E1019,Steve,Analyst,101358,40,false,40,Operations,Boston
+E1020,Tina,HR,92650,40,false,40,Operations,Boston
+E1001,Alice,Tester,80385,40,true,40,Operations,Boston
+E1008,Helen,Developer,117509,40,true,40,Operations,Boston
+E1014,Nina,Analyst,110728,40,true,40,Operations,Boston

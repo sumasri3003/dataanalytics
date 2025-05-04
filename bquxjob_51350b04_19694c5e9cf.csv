@@ -1,0 +1,31 @@
+CustId,Name,LastName,ProductId,City,Balance,IsActive,PId,Pname,Pcategory,Pprice,pisInStock
+CUST0001,Bob,Harris,5,Chicago,5086.66,true,5,Coffee Mug,Kitchenware,10,1
+CUST0002,Grace,Anderson,4,New York,2997.97,false,4,Notebook,Stationery,5.5,1
+CUST0003,Lily,Martin,5,Phoenix,8974.17,true,5,Coffee Mug,Kitchenware,10,1
+CUST0004,Nina,Martin,3,New York,5682.45,false,3,Desk Chair,Furniture,120,0
+CUST0005,Grace,Martin,1,Chicago,2751.64,true,1,Laptop,Electronics,750,1
+CUST0006,Grace,Jackson,4,Los Angeles,8524.62,true,4,Notebook,Stationery,5.5,1
+CUST0007,Bob,Brown,3,Phoenix,4046.42,true,3,Desk Chair,Furniture,120,0
+CUST0008,Grace,Anderson,2,Chicago,5910.63,true,2,Smartphone,Electronics,500,1
+CUST0009,Nina,Johnson,3,Houston,6064.89,false,3,Desk Chair,Furniture,120,0
+CUST0010,John,Thomas,2,Phoenix,1534.07,false,2,Smartphone,Electronics,500,1
+CUST0011,James,White,1,Phoenix,8950.11,true,1,Laptop,Electronics,750,1
+CUST0012,Nina,Jackson,2,Phoenix,3931.74,false,2,Smartphone,Electronics,500,1
+CUST0013,James,Smith,4,Chicago,2901.48,true,4,Notebook,Stationery,5.5,1
+CUST0014,Nina,White,2,Chicago,5133.37,false,2,Smartphone,Electronics,500,1
+CUST0015,Grace,White,1,Los Angeles,9450.62,true,1,Laptop,Electronics,750,1
+CUST0016,James,Jackson,5,New York,4860.17,false,5,Coffee Mug,Kitchenware,10,1
+CUST0017,John,Taylor,3,Phoenix,6401.53,false,3,Desk Chair,Furniture,120,0
+CUST0018,Lily,Smith,2,Houston,6133.92,true,2,Smartphone,Electronics,500,1
+CUST0019,Nina,Smith,1,Los Angeles,7136.01,true,1,Laptop,Electronics,750,1
+CUST0020,Tom,Taylor,1,Phoenix,3114.37,true,1,Laptop,Electronics,750,1
+CUST0021,John,Anderson,5,Phoenix,2113.19,true,5,Coffee Mug,Kitchenware,10,1
+CUST0022,Mark,Thomas,2,New York,6204.65,false,2,Smartphone,Electronics,500,1
+CUST0023,John,Martin,3,Phoenix,3814.69,false,3,Desk Chair,Furniture,120,0
+CUST0024,John,Jackson,4,Phoenix,7217.67,false,4,Notebook,Stationery,5.5,1
+CUST0025,Mark,Martin,4,Los Angeles,4487.36,true,4,Notebook,Stationery,5.5,1
+CUST0026,Grace,Brown,2,Los Angeles,8180.43,false,2,Smartphone,Electronics,500,1
+CUST0027,Tom,Martin,5,Houston,7337.06,true,5,Coffee Mug,Kitchenware,10,1
+CUST0028,Tom,Harris,2,Chicago,1140.94,false,2,Smartphone,Electronics,500,1
+CUST0029,Nina,Jackson,1,Chicago,8281.24,true,1,Laptop,Electronics,750,1
+CUST0030,Alice,Smith,5,Los Angeles,1410.14,false,5,Coffee Mug,Kitchenware,10,1
